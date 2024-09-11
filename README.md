@@ -16,7 +16,7 @@ Love front-end, love technology, is currently a college student, have some exper
 
 ### Open source projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Tristylral&repo=mp4To4K-rust)]([https://github.com/Tristylral/Tristylral/blob/westlake](https://github.com/Tristylral/westlake.git))
+[![](https://github.com/Tristylral/westlake.git)]
 <br><br><br>
 
 ### Github liveness
