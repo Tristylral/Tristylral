@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Tristylrla?theme=rule34">
 
-## Want to be a front-end engineer
+## Want to be a front-end engineer!
 
 Love front-end, love technology, is currently a college student, have some experience in competitions and projects
 <br><br><br>
