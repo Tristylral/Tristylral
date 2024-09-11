@@ -16,13 +16,13 @@ Love front-end, love technology, is currently a college student, have some exper
 
 ### Open source projects
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Tristylrla&repo=mp4To4K-rust)](https://github.com/Tristylral/Tristylral/blob/westlake/README.md)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Tristylral&repo=mp4To4K-rust)](https://github.com/Tristylral/Tristylral/blob/westlake/README.md)
 <br><br><br>
 
 ### Github liveness
 
-[![](https://activity-graph.herokuapp.com/graph?username=Tristylrla&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Tristylrla&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=Tristylral&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Tristylral&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristylrla&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristylrla&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristylral&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristylral&layout=compact&langs_count=6)
