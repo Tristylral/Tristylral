@@ -3,6 +3,7 @@
 ## Want to be a front-end engineer
 
 Love front-end, love technology, is currently a college student, have some experience in competitions and projects
+<br><br><br>
 
 ### **Technology stack:**
 
@@ -13,6 +14,7 @@ Love front-end, love technology, is currently a college student, have some exper
 <a href="https://cn.vitejs.dev"><code><img height="20" src="./logo/vite.png"></code></a>
 <a href="https://sass-lang.com"><code><img height="20" src="./logo/sass.png"></code></a>
 <a href="https://element-plus.org/zh-CN/"><code><img height="20" src="./logo/element plus.png"></code></a>
+<br><br><br>
 
 ### Open source projects
 
@@ -22,6 +24,7 @@ https://github.com/Tristylral/westlake.git
 
 ### Contact me
 reach me at: Yrh780116@outlook.com
+<br><br><br>
 
 ### Github liveness
 
