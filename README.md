@@ -34,5 +34,5 @@ reach me at: Yrh780116@outlook.com
 [![](https://activity-graph.herokuapp.com/graph?username=Tristylral&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Tristylral&show_icons=true&theme=vue)
  <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristylral&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristylral&layout=compact&langs_count=8" />
+ <span>&emsp;&emsp;</span>
