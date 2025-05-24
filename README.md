@@ -23,6 +23,9 @@ https://github.com/Tristylral/westlake.git
 
 Front-end portal mini-app:
 https://github.com/Tristylral/westlake-miniapp.git
+
+Bone Suppression Medical Imaging Generation Platform:
+https://github.com/Tristylral/westlake-miniapp.git
 <br><br><br>
 
 ### Contact me
