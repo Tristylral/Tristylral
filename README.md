@@ -6,14 +6,7 @@ Love AI, love technology, is currently a student, have some experience in compet
 <br><br><br>
 
 ### **Technology stack:**
-
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./logo/vue.jpg"></code></a>
-<a href="https://reactjs.org/"><code><img height="20" src="./logo/react.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./logo/typescript.png"></code></a>
-<a href="https://webpack.js.org/"><code><img height="20" src="./logo/webpack.jpg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./logo/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./logo/sass.png"></code></a>
-<a href="https://element-plus.org/zh-CN/"><code><img height="20" src="./logo/element plus.png"></code></a>
+Machine learning, deep learning, Vue3, prompt engineering, natural language processing, uni-app
 <br><br><br>
 
 ### Open source projects
@@ -29,7 +22,7 @@ https://github.com/Tristylral/Bone-Suppression-Medical-Imaging-Generation-Platfo
 <br><br><br>
 
 ### Contact me
-reach me at: Yrh780116@outlook.com
+reach me at: ruihanyang2022@163.com
 <br><br><br>
 
 ### Github liveness
