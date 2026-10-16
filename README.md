@@ -2,7 +2,7 @@
 
 ## Always ready for challenges!
 
-Love AI, love technology, is currently a student, have some experience in competitions and projects
+Love AI, love technology, is currently a student from NUS, have some experience in competitions and projects
 <br><br><br>
 
 ### **Technology stack:**
