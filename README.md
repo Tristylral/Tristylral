@@ -19,6 +19,9 @@ https://github.com/Tristylral/westlake-miniapp.git
 
 Bone Suppression Medical Imaging Generation Platform:
 https://github.com/Tristylral/Bone-Suppression-Medical-Imaging-Generation-Platform.git
+
+KG-Enhanced Intelligent Diagnostic Chatbot:
+https://github.com/Ebb314/IRS-PM-2026-10-16-AIS08FT-GRP12-SymptomGuide.git
 <br><br><br>
 
 ### Contact me
