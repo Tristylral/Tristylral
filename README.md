@@ -22,6 +22,9 @@ https://github.com/Tristylral/Bone-Suppression-Medical-Imaging-Generation-Platfo
 
 KG-Enhanced Intelligent Diagnostic Chatbot:
 https://github.com/Ebb314/IRS-PM-2026-10-16-AIS08FT-GRP12-SymptomGuide.git
+
+MultiFruitRipenessRecognition
+https://github.com/Ebb314/PRS-PM-2026-10-17-AIS08FT-GRP12-MultiFruitRipenessRecognition.git
 <br><br><br>
 
 ### Contact me
